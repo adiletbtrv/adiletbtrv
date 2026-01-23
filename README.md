@@ -1,6 +1,8 @@
 # Hey there 🎲
 
-I'm **Adilet**, a software engineer based in Kyrgyzstan. I love building things that look good and work even better, whether that's a mobile app, a backend system, or a computer game.
+## I'm **Adilet Batyrov** 
+
+A software engineer based in Kyrgyzstan. I love building things that look good and work even better, whether that's a mobile app, a backend system, or a computer game.
 
 ---
 
