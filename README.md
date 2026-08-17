@@ -42,9 +42,9 @@
 
 ### 📊 GitHub Activity & Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiletbtrv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26" height="155" alt="Adilet's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiletbtrv&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" height="155" alt="Top Languages" />
+<p>
+  <img src="https://github-stats-extended.vercel.app/api?username=adiletbtrv&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26" height="155" alt="Adilet's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adiletbtrv&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" height="155" alt="Top Languages" />
 </p>
 
 ---
