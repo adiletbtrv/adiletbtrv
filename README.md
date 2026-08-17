@@ -54,4 +54,4 @@
 - **Location:** Bishkek, Kyrgyzstan (Open to Remote Global/US/EU & Relocation)
 - **Email:** [adiletb387@gmail.com](mailto:adiletb387@gmail.com)
 - **LinkedIn:** [linkedin.com/in/adilet-batyrov](https://www.linkedin.com/in/adilet-batyrov/)
-- **Telegram:** [@adiletbtrv](https://t.me/adiletbtrv)
+- **Telegram:** [@bbk0629](https://t.me/bbk0629)
